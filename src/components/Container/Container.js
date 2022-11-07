@@ -1,7 +1,6 @@
 import { useContext } from 'react'
 import Header from '../Header'
 import WeatherCard from '../WeatherCard'
-import Footer from '../Footer'
 import styles from "./Container.module.css"
 import WeatherContext from '../../contexts/WeatherContext'
 
