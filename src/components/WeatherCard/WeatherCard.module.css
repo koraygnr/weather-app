@@ -10,11 +10,13 @@
 .cardItem:hover {
     cursor: pointer;
     background-color: #fff;
+    transform: scale(1.02);
 }
 .weatherIcon{
     height: 45px;
     width: 45px;
-    transition: 0.3s;
+    transition: 0.4s;
 }
+
 
 
